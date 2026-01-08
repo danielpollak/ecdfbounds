@@ -4,6 +4,9 @@ Confidence bounds for empirical CDFs using
 - Dvoretzky–Kiefer–Wolfowitz (DKW) inequality
 - Bootstrap resampling
 
+## Installation
+`pip install git+https://github.com/danielpollak/ecdfbounds.git`
+
 ## Example
 
 ```python
